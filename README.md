@@ -1,4 +1,4 @@
-# Hello, I'm Andrei Nascimento
+# Hi, I'm Andrei!
 
 ## Let's do this⚡
 
