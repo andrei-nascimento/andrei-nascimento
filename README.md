@@ -2,9 +2,9 @@
 
 ## Let's do this⚡
 
-- 🚀 Generation Brazil Bootcamp | Java Web Fullstack Developer
-- 🎓 Marketing Graduated | Multimedia Technician
-- 📌 Based in São Paulo - Brazil
+- 🚀 Generation Brasil Bootcamp | Java Web Fullstack Developer
+- 🎓 Multiplatform Mobile Application Projects (Postgraduate) | Marketing (Graduated) | Multimedia (Technician)
+- 📌 Based in São Paulo - Brasil
 
 ### Get in touch
 
