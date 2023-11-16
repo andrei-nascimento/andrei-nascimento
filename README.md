@@ -4,7 +4,7 @@
 
 - 🚀 Generation Brasil Bootcamp | Java Web Fullstack Developer
 - 🎓 Multiplatform Mobile Application Projects (Postgraduate) | Marketing (Graduated) | Multimedia (Technician)
-- 📌 Based in São Paulo - Brasil
+- 📌 Based in Florianópolis - Brasil
 
 ### Get in touch
 
